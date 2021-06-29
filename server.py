@@ -1,6 +1,6 @@
 import socket
 
-tcp_port = 79
+tcp_port = 1672
 tcp_ip = '0.0.0.0'
 buf_size = 30
 
